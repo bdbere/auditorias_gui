@@ -50,5 +50,5 @@ Para el correcto funcionamiento del análisis, el archivo de origen debe cumplir
 
 * Mapeo de Columnas: Las preguntas deben estar distribuidas en los rangos de columnas establecidos en el diccionario servicios_columnas dentro del código (por ejemplo, columnas de la H a la O para "Centro de información").
 
-* ## Autora
-* *Berenice Hernández Juárez - Ingeniería en Sistemas Computacionales - Tecnm Querétaro
+## Autora
+* Berenice Hernández Juárez - Ingeniería en Sistemas Computacionales - Tecnm Querétaro
