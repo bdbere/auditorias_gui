@@ -1,0 +1,33 @@
+# ------------------------------------
+# Python
+# ------------------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Entornos virtuales (si llegas a usar uno)
+venv/
+env/
+.venv/
+
+# ------------------------------------
+# PyInstaller e Instaladores
+# ------------------------------------
+build/
+dist/
+*.spec
+Output/
+*.exe
+
+# ------------------------------------
+# Archivos comprimidos
+# ------------------------------------
+*.rar
+*.zip
+
+# ------------------------------------
+# Archivos de datos / Reportes generados
+# ------------------------------------
+*.xlsx
+*.csv

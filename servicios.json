@@ -1,0 +1,30 @@
+{
+  "Laboratorio de Cómputo": [
+    "AZ",
+    "BD"
+  ],
+  "Servicio Social": [
+    "BF",
+    "BL"
+  ],
+  "Servicios Escolares": [
+    "BN",
+    "BV"
+  ],
+  "Cafetería": [
+    "BX",
+    "CD"
+  ],
+  "Centro de Copiado": [
+    "CF",
+    "CL"
+  ],
+  "Seguridad": [
+    "CN",
+    "CR"
+  ],
+  "Limpieza": [
+    "CT",
+    "CY"
+  ]
+}
